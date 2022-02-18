@@ -1,2 +1,2 @@
 # home
-I'm learning Web Developement!
+I'm learning Web Development!
