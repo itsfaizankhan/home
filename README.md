@@ -1,7 +1,7 @@
 # Personal Website
 I'm learning Web Development!
 
-[How I remove background from image](https://www.remove-background.org/)
+[How I removed background from image](https://www.remove-background.org/)
 
 Color Palette I used: [Color Hunt](https://colorhunt.co/palette/1b262c0f4c753282b8bbe1fa)
 
