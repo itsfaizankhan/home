@@ -12,3 +12,7 @@ hr {
 h1, h3 {
   color: #0F4C75;
 }
+
+#profile-pic {
+  max-width: 250px;
+}
