@@ -55,24 +55,18 @@ hr {
 	padding-top: 100px;
 }
 
-.upper-cloud {
-	position: absolute;
-	top: 80px;
-	right: 400px;
-}
-
 .lower-cloud {
 	position: absolute;
 	left: 500px;
 	bottom: 25vw;
 }
 
-.mountain {
+.desk {
 	width: 40%;
 }
 
 @media only screen and (max-width: 600px) {
-	.mountain {
+	.desk {
 		width: 70%;
 	}
 }
