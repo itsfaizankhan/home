@@ -55,10 +55,10 @@ hr {
 	padding-top: 100px;
 }
 
-.lower-cloud {
+.cloud {
 	position: absolute;
-	left: 500px;
-	bottom: 25vw;
+	top: 80px;
+	right: 400px;
 }
 
 .desk {
